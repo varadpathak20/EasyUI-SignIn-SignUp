@@ -67,7 +67,7 @@
                             <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="wUQ-vn-pQJ">
                                 <rect key="frame" x="-275" y="0.0" width="650" height="667"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Sea.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="nxa-BB-V9Q">
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="CityLights.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="nxa-BB-V9Q">
                                         <rect key="frame" x="0.0" y="0.0" width="650" height="667"/>
                                     </imageView>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="HrA-QG-91I">
@@ -472,7 +472,7 @@
     </scenes>
     <resources>
         <image name="AppleLogoGray" width="133" height="162"/>
-        <image name="Sea.jpg" width="1280" height="800"/>
+        <image name="CityLights.jpg" width="2560" height="1600"/>
         <image name="facebook" width="100" height="100"/>
         <image name="googlePlus" width="100" height="100"/>
         <image name="twitter" width="100" height="100"/>
