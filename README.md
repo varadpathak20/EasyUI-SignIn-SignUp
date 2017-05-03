@@ -7,7 +7,7 @@ This UI is devloped by taking inspiration from the UI design created by https://
 
 The code already has validations and exception handeling for the textfields.
 
-One can also SET A VIDEO as background. All one has to do is add the video in the bundle and then go in the viewDidLoad() in viewcontroller.swift and set the isBackgroundVideo = true and add the name of his video in the playVideoInBackGround() method in the moviePath.
+One can also SET A VIDEO as background. All one has to do is add the video in the bundle and then go in the "viewDidLoad()" in viewcontroller.swift and set the "isBackgroundVideo = true" and add the name of his video in the "playVideoInBackGround()" method in the "moviePath".
 
 TO USE this UI simply copy the "Main.storyboard", "Viewcontroller.swift" & "Constants and Extensions.swift" files to your project and rename them accordingy.
 
