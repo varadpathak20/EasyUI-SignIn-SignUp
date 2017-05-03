@@ -1,8 +1,6 @@
 # EasyUI-SignIn-SignUp
 A ready to use SignIn and SignUp UI in Swift 3
 
-![alt text](https://github.com/varadpathak20/EasyUI-SignIn-SignUp/blob/master/1.gif)
-
 ![alt text](https://github.com/varadpathak20/EasyUI-SignIn-SignUp/blob/master/IMG_7232.PNG)
 
 ![alt text](https://github.com/varadpathak20/EasyUI-SignIn-SignUp/blob/master/IMG_7233.PNG)
